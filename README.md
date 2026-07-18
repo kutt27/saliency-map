@@ -4,6 +4,8 @@ Itti-Koch saliency model implementation using intensity, color opponency, and or
 
 For indepth overview, refer to this blog: [Blog Link](https://www.amals.xyz/blog/how-your-brain-decides-what-to-look-at)
 
+Notebook: [Link](https://github.com/kutt27/saliency-map/tree/master/Notebook)
+
 ## Usage
 
 ```bash
